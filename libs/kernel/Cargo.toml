@@ -1,0 +1,8 @@
+[package]
+name = "kernel"
+version = "0.1.0"
+authors = ["Rodrigo Pulcha <rodrigo.alonso.pulcha@gmail.com>"]
+
+[dependencies]
+chrono = { version = "0.4", features = ["serde"] }
+record = { path = "../record/" }

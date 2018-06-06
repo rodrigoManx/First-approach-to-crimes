@@ -1,0 +1,11 @@
+[package]
+name = "record"
+version = "0.1.0"
+authors = ["Rodrigo Pulcha <rodrigo.alonso.pulcha@gmail.com>"]
+
+[dependencies]
+serde = "1.0.9"
+quick-csv = "0.1.6"
+rustc-serialize = "0.3.24"
+chrono = { version = "0.4", features = ["serde"] }
+cogset = "0.2"

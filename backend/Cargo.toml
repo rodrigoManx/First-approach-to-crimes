@@ -1,0 +1,12 @@
+[package]
+name = "criminal_heatmap"
+version = "0.8.0"
+authors = ["Rodrigo Pulcha <rodrigo.alonso.pulcha@gmail.com>"]
+
+[dependencies]
+record = { path = "../libs/record/" }
+kernel = { path = "../libs/kernel/" }
+clustering = { path = "../libs/clustering/" }
+cogset = "0.2"
+geojson = "*"
+serde_json = "*"

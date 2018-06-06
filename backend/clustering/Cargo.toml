@@ -1,0 +1,15 @@
+[package]
+name = "back_clustering"
+version = "0.1.0"
+authors = ["Rodrigo Pulcha <rodrigo.alonso.pulcha@gmail.com>"]
+
+[dependencies]
+serde = "1.0.9"
+record = { path = "../../libs/record/" }
+kernel = { path = "../../libs/kernel/" }
+clustering = { path = "../../libs/clustering/" }
+csv = "0.14"
+rustc-serialize = "0.3.24"
+cogset = "0.2"
+geojson = "0.8.1"
+serde_json = "*"
