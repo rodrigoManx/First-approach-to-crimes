@@ -1,0 +1,12 @@
+C:\xampp\htdocs\CrimeClustering\First-approach-to-crimes\backend\target\debug\deps\libgeojson-c6710f614cfae0f4.rlib: C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\lib.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\macros.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\util.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\geojson.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\geometry.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\feature.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\feature_collection.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\conversion.rs
+
+C:\xampp\htdocs\CrimeClustering\First-approach-to-crimes\backend\target\debug\deps\geojson-c6710f614cfae0f4.d: C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\lib.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\macros.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\util.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\geojson.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\geometry.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\feature.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\feature_collection.rs C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\conversion.rs
+
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\lib.rs:
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\macros.rs:
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\util.rs:
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\geojson.rs:
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\geometry.rs:
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\feature.rs:
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\feature_collection.rs:
+C:\Users\Computer\.cargo\registry\src\github.com-1ecc6299db9ec823\geojson-0.8.1\src\conversion.rs:

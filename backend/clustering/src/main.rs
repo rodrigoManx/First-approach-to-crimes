@@ -18,7 +18,7 @@ use std::fs::File;
 
 fn main() {
     let curr_time = kernel::current_time(); // Current Time
-    let bound_time = kernel::weeks_ago(52); // Current Time - x Weeks
+    let bound_time = kernel::weeks_ago(127); // Current Time - x Weeks
 
     let records = record::read_records_from("../../data/data1617.csv"); // Load records
     let tree = clustering::make_record_tree(&records); // Store records in a BTree

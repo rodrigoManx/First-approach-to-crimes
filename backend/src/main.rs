@@ -15,9 +15,9 @@ use serde_json::value;
 use record::GeoRecord;
 
 fn main() {
-    let week_range = 104;
-    let kde_threshold = 0.4;
-    let geo_threshold = 0.75;
+    let week_range = 76;
+    let kde_threshold = 0.03;
+    let geo_threshold = 0.04;
     /*****************************LOAD RECORDS*******************************/
     let records = record::read_records_from("../data/data1617.csv"); // Load records
     let tree = clustering::make_record_tree(&records); // Store records in a BTree

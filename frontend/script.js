@@ -66,7 +66,7 @@ function initMap() {
     //     }
     // });
 
-    map.data.loadGeoJson("./geo.json");
+    //map.data.loadGeoJson("./geo.json");
 
 }
 

@@ -41,7 +41,7 @@ pub fn kernel_sum(record: &Record, curr: &NaiveDateTime) -> f64 {
 
     d_t = d_t % 24.0;
     d_w = d_w % 7.0;
-    d_s = d_s % 52.14;
+    d_s = d_s % 38.5;
 
     if d_t > 12.0 {
         d_t = 24.0 - d_t;
@@ -51,8 +51,8 @@ pub fn kernel_sum(record: &Record, curr: &NaiveDateTime) -> f64 {
         d_w = 7.0 - d_w;
     }
 
-    if d_s > 26.07 {
-        d_s = 52.14 - d_s;
+    if d_s > 38.0 {
+        d_s = 76.0 - d_s;
     }
 
     // println!("{}\t{}\t{}", d_t, d_w, d_s);
